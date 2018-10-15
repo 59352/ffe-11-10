@@ -1,0 +1,24 @@
+.icon {
+  fill: black;
+  stroke: green;
+  weight: SOLID;
+  background: red;
+  stroke-dasharray: 5;
+}
+
+.icon:hover {
+  fill: lightblue;
+  stroke-dasharray: 5;
+}
+
+.part0 {
+  fill: red;
+  stroke: pink;
+  weight: bold;
+  background: purple;
+  
+}
+
+.part0:hover {
+	fill: red;
+}
